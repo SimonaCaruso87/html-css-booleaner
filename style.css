@@ -1,8 +1,41 @@
+main{
+    padding-left: 1%;
+}
 .logo{
-    background-color: rgb(83, 83, 202);
+    background-color: rgb(46, 139, 175);
     background-image: url(img/pattern.png);
-    width: 900px;
+    width: 1500px;
     height: 80px;
-    background-size: contain;
+    background-size: 30%;
 }
 
+.nome-logo{
+    height: 50%;
+    padding-top: 30px;
+}
+.scritto{
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+    padding-top: 1%;
+}
+
+.colore-logo{
+    color: rgb(8, 167, 167);
+}
+h1{
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.data-manifesto{
+    display: block;
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+}
+.trafiletto-foto{
+    display: block;
+    font-size: 10px;
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
