@@ -13,11 +13,14 @@ main{
     height: 50%;
     padding-top: 30px;
 }
+.titolo{
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
 .scritto{
     font-size: 13px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: grey;
-    padding-top: 1%;
 }
 
 .colore-logo{
@@ -32,6 +35,7 @@ h1{
     color: grey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 10px;
+    padding-bottom: 1%;
 }
 .trafiletto-foto{
     display: block;
@@ -46,4 +50,19 @@ h1{
 .paragrafo{
      margin-top: 2%;
      display: block;
+}
+.interessi{
+ color: grey;
+ font-size: 16px;
+ margin-top: 2%;
+ display: block;
+}
+.foto-footer{
+    background-image: url(img/monitor.jpg);
+    width: 300px;
+    height: 180px;
+    color:white;
+    text-align: center;
+    margin-top: 1%;
+    font-size: medium;
 }
