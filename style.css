@@ -39,3 +39,11 @@ h1{
     color: grey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.paragrafo-importante{
+    background-color: yellow;
+    display: inline-block;
+}
+.paragrafo{
+     margin-top: 2%;
+     display: block;
+}
