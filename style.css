@@ -43,10 +43,7 @@ h1{
     color: grey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.paragrafo-importante{
-    background-color: yellow;
-    display: inline-block;
-}
+
 .paragrafo{
      margin-top: 2%;
      display: block;
@@ -65,4 +62,32 @@ h1{
     text-align: center;
     margin-top: 1%;
     font-size: medium;
+}
+
+.foto-footer2{
+    background-image: url(img/monitor.jpg);
+    width: 300px;
+    height: 180px;
+    color:white;
+    text-align: center;
+    margin-top: 1%;
+    font-size: medium;
+}
+
+
+#no-border-spacing-table{
+    border-collapse: collapse;
+}
+thead{
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+
+}
+
+.odd-row{
+    background-color: #B1E5F2;
+}
+.last-cell-width{
+    width: 50%;
 }
