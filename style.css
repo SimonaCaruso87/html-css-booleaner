@@ -59,19 +59,19 @@ h1{
     width: 300px;
     height: 180px;
     color:white;
-    text-align: center;
+    text-align: left;
     margin-top: 1%;
-    font-size: medium;
+    font-size: large;
 }
 
 .foto-footer2{
-    background-image: url(img/monitor.jpg);
+    background-image: url(img/graph.jpg);
     width: 300px;
     height: 180px;
     color:white;
-    text-align: center;
+    text-align: left;
     margin-top: 1%;
-    font-size: medium;
+    font-size: large;
 }
 
 
